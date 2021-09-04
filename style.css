@@ -1,0 +1,13 @@
+div.container {
+    width: 100%;
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color:#03ec78;
+  }
+  
+  div.box {
+    box-sizing: border-box;
+    width: 50%;
+    border: 5px solid red;
+    float: left;
+  }
